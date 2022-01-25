@@ -1,0 +1,9 @@
+{
+  "name": "nlw-opensix",
+  "version": "1.0.0",
+  "description": "Rockeseat NLW#6 Project - OpenSix",
+  "main": "index.js",
+  "repository": "https://github.com/discover-wgnr8/nlw-opensix.git",
+  "author": "Wagner Mattos",
+  "license": "MIT"
+}
